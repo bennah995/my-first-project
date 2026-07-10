@@ -1,0 +1,33 @@
+TASK 1
+
+user@DESKTOP-0BITCSL MINGW64 ~
+$ code --version
+1.128.0
+fc3def6774c76082adf699d366f31a557ce5573f
+x64
+
+user@DESKTOP-0BITCSL MINGW64 ~
+$ git --version
+git version 2.49.0.windows.1
+
+user@DESKTOP-0BITCSL MINGW64 ~
+$ node --version
+v25.4.0
+
+user@DESKTOP-0BITCSL MINGW64 ~
+$ npm --version
+11.7.0
+
+
+
+TASK 2
+user@DESKTOP-0BITCSL MINGW64 ~/Desktop/McTaba Labs/Assg/code/my-first-project (main)
+$ git config --global user.name
+git config --global user.email
+Bennah
+bennah955@gmail.com
+
+
+TASK 4
+Link: https://github.com/bennah995/my-first-project
+Screenshot see Image task-4.pn
